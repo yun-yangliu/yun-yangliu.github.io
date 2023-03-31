@@ -31,17 +31,17 @@ E-mail: <lyymath@126.com> &emsp;
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIMS IPI</div><img src='images/ipi_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[A Framelet Sparse Reconstruction Method for Pansharpening with Guaranteed Convergence](https://zhongchengwu.github.io/_pages/unavailable.html) <br>
-<b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone <br>
-*Inverse Problems and Imaging* (<b>IPI</b>), 2023. <br>
-[[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
+[Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization](https://yun-yangliu.github.io/_pages/unavailable.html) <br>
+<b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Yu-Bang Zheng, Tian-Hui Ma, Hongyan Zhang <br>
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. <br>
+[[PDF](https://yun-yangliu.github.io/_pages/unavailable.html)] [[Code](https://yun-yangliu.github.io/_pages/unavailable.html)]
 </div>
 </div>
 
 # 🛩 Educations
-- *2021.09 - Present*: &nbsp;Ph.D., Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu
-- *2019.09 - 2021.06*: &nbsp;M.S., Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu
-- *2015.09 - 2019.06*: &nbsp;B.S., Information and Computing Science, Anhui University of Finance and Economics (AUFE), Bengbu
+- *2021.09 - Present*: &nbsp;Ph.D., School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu
+- *2019.09 - 2021.06*: &nbsp;M.S., School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu
+- *2015.09 - 2019.06*: &nbsp;B.S., School of Mathematics and Information Sciences, Henan Normal University (HTU), Xinxiang
 
 # 🎖 Honors and Awards
 - Academic Scholarship, UESTC, *2019*, *2021*, and *2022*
@@ -50,9 +50,6 @@ E-mail: <lyymath@126.com> &emsp;
 - Provincial Outstanding Graduate (Top 3%), Department of Education of Anhui Province, *2019* 
 
 # 🗺 Academic Activities
-
-## Review Editor
-- Frontiers in Remote Sensing, ...
 
 ## Reviewer
 - IEEE GRSL, SPIE JEI, ...
