@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhong-Cheng Wu | UESTC"
-description              : "Ph.D. student in UESTC. Focusing on image processing, tensor learning, and pansharpening."
-repository               : "zhongchengwu/zhongchengwu.github.io"
+title                    : "Yun-Yang Liu | UESTC"
+description              : "Ph.D. student in UESTC. Focusing on image processing, tensor learning, and fast algorithm."
+repository               : "yun-yangliu/yun-yangliu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhong-Cheng Wu (吴忠诚)"
+  name             : "Yun-Yang Liu (刘运阳)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Electronic Science and Technology of China (UESTC)"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=8bOvaUcAAAAJ"
-  email            : "wuzhch97@163.com"
-  researchgate     : "https://www.researchgate.net/profile/Zhong-Cheng-Wu-2"
+  googlescholar    : # e.g., "https://scholar.google.com/citations?user=8bOvaUcAAAAJ"
+  email            : "lyymath@126.com"
+  researchgate     : "https://www.researchgate.net/profile/Yun-Yang-Liu"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhongchengwu"
+  github           : "yun-yangliu"
   google_plus      :
   keybase          :
   instagram        :
