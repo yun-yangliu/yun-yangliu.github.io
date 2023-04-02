@@ -21,20 +21,18 @@ I am currently pursuing the Ph.D. degree (supervised by Prof. [Xi-Le Zhao](https
 
 My research interest includes image processing, tensor learning, and fast algorithm. 
 
-E-mail: <lyymath@126.com> &emsp;
+E-mail: <lyymath@126.com> &emsp; [Google Scholar] (https://scholar.google.com/citations?user=lGITzEwAAAAJ&hl=zh-CN)
 
 # 🎙 News 
 - *2021.01*: &nbsp;One paper is accepted by <b>IEEE TGRS</b>.
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIMS IPI</div><img src='images/ipi_23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization](https://yun-yangliu.github.io/_pages/unavailable.html) <br>
+ 
+- [Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization](https://ieeexplore.ieee.org/document/9314228) <br>
 <b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Yu-Bang Zheng, Tian-Hui Ma, Hongyan Zhang <br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. <br>
-[[PDF](https://yun-yangliu.github.io/_pages/unavailable.html)] [[Code](https://yun-yangliu.github.io/_pages/unavailable.html)]
+[[PDF](https://yun-yangliu.github.io/papers/TGRS_2021.html)] [[Code](https://yun-yangliu.github.io/_pages/unavailable.html)]
 </div>
 </div>
 
@@ -44,10 +42,10 @@ E-mail: <lyymath@126.com> &emsp;
 - *2015.09 - 2019.06*: &nbsp;B.S., School of Mathematics and Information Sciences, Henan Normal University (HTU), Xinxiang
 
 # 🎖 Honors and Awards
-- Academic Scholarship, UESTC, *2019*, *2021*, and *2022*
+- Academic Scholarship, UESTC, *2019*,*2020*, *2021*, and *2022*
 - Special Postgraduate Scholarship of Science, UESTC, *2021*
 - Academic Rookie, UESTC, *2021*
-- Provincial Outstanding Graduate (Top 3%), Department of Education of Anhui Province, *2019* 
+
 
 # 🗺 Academic Activities
 
