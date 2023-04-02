@@ -32,7 +32,7 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 - [Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization](https://ieeexplore.ieee.org/document/9314228) <br>
 <b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Yu-Bang Zheng, Tian-Hui Ma, Hongyan Zhang <br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. <br>
-[[PDF](https://yun-yangliu.github.io/papers/TGRS_2021.pdf)] [[Code](https://yun-yangliu.github.io/_pages/unavailable.html)]
+[[PDF](https://yun-yangliu.github.io/papers/TGRS_2021.pdf)] [[Code](https://github.com/yun-yangliu/TGRS_FRCTR_PnP)]
 
 
 # 🛩 Educations
