@@ -21,7 +21,7 @@ I am currently pursuing the Ph.D. degree (supervised by Prof. [Xi-Le Zhao](https
 
 My research interest includes image processing, tensor learning, and fast algorithm. 
 
-E-mail: <lyymath@126.com> &emsp; [Google Scholar] (https://scholar.google.com/citations?user=lGITzEwAAAAJ&hl=zh-CN)
+E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/citations?user=lGITzEwAAAAJ&hl=zh-CN)
 
 # 🎙 News 
 - *2021.01*: &nbsp;One paper is accepted by <b>IEEE TGRS</b>.
