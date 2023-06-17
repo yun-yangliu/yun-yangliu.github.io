@@ -28,15 +28,15 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author.
+
+- [Fully-connected Tensor Network Decomposition for Robust Tensor Completion Problem] <br>
+<b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Guang-Jing Song, Yu-Bang Zheng, Michael K. Ng, Ting-Zhu Huang <br>
+*Inverse Problems and Imaging* (<b>IPI</b>), 2023.
  
 - [Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization](https://ieeexplore.ieee.org/document/9314228) <br>
 <b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Yu-Bang Zheng, Tian-Hui Ma, Hongyan Zhang <br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. <br>
 [[PDF](https://yun-yangliu.github.io/papers/TGRS_2021.pdf)] [[Slide](https://yun-yangliu.github.io/papers/TGRS_slide_2021.pdf)] [[Code](https://github.com/yun-yangliu/TGRS_FRCTR_PnP)] (<span style="color:red">ESI Highly Cited Paper</span>)
-
-- [Fully-connected Tensor Network Decomposition for Robust Tensor Completion Problem] <br>
-<b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Guang-Jing Song, Yu-Bang Zheng, Michael K. Ng, Ting-Zhu Huang <br>
-*Inverse Problems and Imaging* (<b>IPI</b>), 2023.
 
 # 🛩 Educations
 - *2021.09 - Present*: &nbsp; Ph.D., School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu
