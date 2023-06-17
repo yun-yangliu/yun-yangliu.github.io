@@ -34,11 +34,14 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. <br>
 [[PDF](https://yun-yangliu.github.io/papers/TGRS_2021.pdf)] [[Slide](https://yun-yangliu.github.io/papers/TGRS_slide_2021.pdf)] [[Code](https://github.com/yun-yangliu/TGRS_FRCTR_PnP)] (<span style="color:red">ESI Highly Cited Paper</span>)
 
+- [Fully-connected Tensor Network Decomposition for Robust Tensor Completion Problem] <br>
+<b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Guang-Jing Song, Yu-Bang Zheng, Michael K. Ng, Ting-Zhu Huang <br>
+*Inverse Problems and Imaging* (<b>IPI</b>), 2023.
 
 # 🛩 Educations
-- *2021.09 - Present*: &nbsp;Ph.D., School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu
-- *2019.09 - 2021.06*: &nbsp;M.S., School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu
-- *2015.09 - 2019.06*: &nbsp;B.S., School of Mathematics and Information Sciences, Henan Normal University (HTU), Xinxiang
+- *2021.09 - Present*: &nbsp; Ph.D., School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu
+- *2019.09 - 2021.06*: &nbsp; M.S., School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu
+- *2015.09 - 2019.06*: &nbsp; B.S., School of Mathematics and Information Sciences, Henan Normal University (HTU), Xinxiang
 
 # 🎖 Honors and Awards
 - Academic Scholarship, UESTC, *2019*,*2020*, *2021*, and *2022*
@@ -49,4 +52,4 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 # 🗺 Academic Activities
 
 ## Reviewer
-- IEEE GRSL, SPIE JEI, ...
+- IEEE TGRS
