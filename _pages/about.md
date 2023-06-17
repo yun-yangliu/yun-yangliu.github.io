@@ -29,7 +29,7 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author.
 
-- [Fully-connected Tensor Network Decomposition for Robust Tensor Completion Problem]<br>
+- [Fully-connected Tensor Network Decomposition for Robust Tensor Completion Problem](https://yun-yangliu.github.io/)<br>
 <b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Guang-Jing Song, Yu-Bang Zheng, Michael K. Ng, Ting-Zhu Huang <br>
 *Inverse Problems and Imaging* (<b>IPI</b>), 2023. <br> [[PDF](https://yun-yangliu.github.io/papers/IPI_2023.pdf)]
 
