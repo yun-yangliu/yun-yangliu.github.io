@@ -41,6 +41,10 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. <br>
 [[PDF](https://yun-yangliu.github.io/papers/TGRS_2021.pdf)] [[Slide](https://yun-yangliu.github.io/papers/TGRS_slide_2021.pdf)] [[Code](https://github.com/yun-yangliu/TGRS_FRCTR_PnP)] (<span style="color:red">ESI Highly Cited Paper</span>)
 
+- [Multi-Dimensional Data Recovery via Feature-Based Fully-Connected Tensor Network Decomposition](https://ieeexplore.ieee.org/document/10356843) <br>
+Zhi-Long Han, Ting-Zhu Huang\*, Xi-Le Zhao\*, Hao Zhang, <b>Yun-Yang Liu</b> <br>
+*IEEE Transactions on Big Data*(<b>TBD</b>)
+
 # 🛩 Educations
 - *2021.09 - Present*: &nbsp; Ph.D., School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu
 - *2019.09 - 2021.06*: &nbsp; M.S., School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu
