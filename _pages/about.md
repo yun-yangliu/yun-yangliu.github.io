@@ -19,6 +19,8 @@ redirect_from:
 
 I am currently pursuing the Ph.D. degree (supervised by Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) with the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
 
+From Dec. 2023, I am working with Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine/), sponsored by the Academic Exchange Special Fund in UESTC for Overseas Training, at CNR-IMAA, Potenza, Italy.
+
 My research interest includes image processing, tensor learning, and fast algorithm. 
 
 E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/citations?user=lGITzEwAAAAJ&hl=zh-CN)
