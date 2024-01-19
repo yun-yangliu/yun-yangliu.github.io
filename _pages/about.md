@@ -43,7 +43,7 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 
 - [Multi-Dimensional Data Recovery via Feature-Based Fully-Connected Tensor Network Decomposition](https://ieeexplore.ieee.org/document/10356843) <br>
 Zhi-Long Han, Ting-Zhu Huang\*, Xi-Le Zhao\*, Hao Zhang, <b>Yun-Yang Liu</b> <br>
-*IEEE Transactions on Big Data*(<b>TBD</b>)
+*IEEE Transactions on Big Data*(<b>TBD</b>), 2023.
 
 # 🛩 Educations
 - *2021.09 - Present*: &nbsp; Ph.D., School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu
