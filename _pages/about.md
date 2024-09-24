@@ -26,7 +26,7 @@ My research interest includes image processing, tensor learning, and fast algori
 E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/citations?user=lGITzEwAAAAJ&hl=zh-CN)
 
 # 🎙 News 
-- *2023.06*: &nbsp;One paper is accepted by <b>IPI</b>.
+- *2024.07*: &nbsp;One paper is accepted by <b>JSC</b>.
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
