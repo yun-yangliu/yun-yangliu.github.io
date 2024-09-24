@@ -31,6 +31,10 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
 
+- [The Generalized Tensor Decomposition with Heterogeneous Tensor Product for Third-Order Tensors](https://link.springer.com/article/10.1007/s10915-024-02637-8)<br>
+<b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Meng Ding, Jianjun Wang, Tai-Xiang Jiang, Ting-Zhu Huang<br>
+*Journal of Scientific Computing*(<b>JSC</b>), 2023.<br>[[PDF](https://yun-yangliu.github.io/papers/JSC_2024.pdf)]
+
 - [Fully-connected Tensor Network Decomposition for Robust Tensor Completion Problem](https://www.aimsciences.org/article/doi/10.3934/ipi.2023030)<br>
 <b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Guang-Jing Song, Yu-Bang Zheng, Michael K. Ng, Ting-Zhu Huang <br>
 *Inverse Problems and Imaging* (<b>IPI</b>), 2023. <br> [[PDF](https://yun-yangliu.github.io/papers/IPI_2023.pdf)] [[Code](https://github.com/yun-yangliu/IPI_RTC_FCTN)]
