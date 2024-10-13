@@ -37,7 +37,7 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 
 - [Bi-Level Tensor Decomposition for Hyperspectral Image Restoration](https://ieeexplore.ieee.org/document/10640494?denied=)<br>
 <b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Jin-Yu Xie, Zhi Xu, Gemine Vivone<br>
-*IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium*(<b>IEEE IGARSS</b>), 2024.<br>[[PDF](https://yun-yangliu.github.io/papers/JSC_2024.pdf)]
+*IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium*(<b>IEEE IGARSS</b>), 2024.<br>[[PDF](https://yun-yangliu.github.io/papers/IGARSS_2024.pdf)]
 
 
 - [Fully-connected Tensor Network Decomposition for Robust Tensor Completion Problem](https://www.aimsciences.org/article/doi/10.3934/ipi.2023030)<br>
@@ -69,3 +69,4 @@ Zhi-Long Han, Ting-Zhu Huang\*, Xi-Le Zhao\*, Hao Zhang, <b>Yun-Yang Liu</b> <br
 
 ## Reviewer
 - IEEE TGRS
+- IEEE GRSL
