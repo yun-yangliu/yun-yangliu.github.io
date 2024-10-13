@@ -35,6 +35,11 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 <b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Meng Ding, Jianjun Wang, Tai-Xiang Jiang, Ting-Zhu Huang<br>
 *Journal of Scientific Computing*(<b>JSC</b>), 2024.<br>[[PDF](https://yun-yangliu.github.io/papers/JSC_2024.pdf)]
 
+- [Bi-Level Tensor Decomposition for Hyperspectral Image Restoration](https://ieeexplore.ieee.org/document/10640494?denied=)<br>
+<b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Jin-Yu Xie, Zhi Xu, Gemine Vivone<br>
+*IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium*(<b>IEEE IGARSS</b>), 2024.<br>[[PDF](https://yun-yangliu.github.io/papers/JSC_2024.pdf)]
+
+
 - [Fully-connected Tensor Network Decomposition for Robust Tensor Completion Problem](https://www.aimsciences.org/article/doi/10.3934/ipi.2023030)<br>
 <b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Guang-Jing Song, Yu-Bang Zheng, Michael K. Ng, Ting-Zhu Huang <br>
 *Inverse Problems and Imaging* (<b>IPI</b>), 2023. <br> [[PDF](https://yun-yangliu.github.io/papers/IPI_2023.pdf)] [[Code](https://github.com/yun-yangliu/IPI_RTC_FCTN)]
@@ -42,7 +47,7 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
  
 - [Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization](https://ieeexplore.ieee.org/document/9314228) <br>
 <b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Yu-Bang Zheng, Tian-Hui Ma, Hongyan Zhang <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. <br>
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2022. <br>
 [[PDF](https://yun-yangliu.github.io/papers/TGRS_2021.pdf)] [[Slide](https://yun-yangliu.github.io/papers/TGRS_slide_2021.pdf)] [[Code](https://github.com/yun-yangliu/TGRS_FRCTR_PnP)] (<span style="color:red">ESI Highly Cited Paper</span>)
 
 - [Multi-Dimensional Data Recovery via Feature-Based Fully-Connected Tensor Network Decomposition](https://ieeexplore.ieee.org/document/10356843) <br>
