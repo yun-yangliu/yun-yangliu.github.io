@@ -33,7 +33,7 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 
 - [Rank-Revealing Fully-Connected Tensor Network Decomposition and Its Application to Tensor Completion](https://www.sciencedirect.com/science/article/pii/S0031320325002705)<br>
 <b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Gemine Vivone <br>
-*Pattern Recognition*(<b>PR</b>), 2025.<br>[[PDF](https://github.com/yun-yangliu/yun-yangliu.github.io/blob/main/papers/PR_2025.pdf)]
+*Pattern Recognition*(<b>PR</b>), 2025.<br>[[PDF](https://yun-yangliu.github.io/papers/PR_2025.pdf)]
 
 
 - [The Generalized Tensor Decomposition with Heterogeneous Tensor Product for Third-Order Tensors](https://link.springer.com/article/10.1007/s10915-024-02637-8)<br>
